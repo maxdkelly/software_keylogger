@@ -1,0 +1,5 @@
+okay goolgle what is the time today
+super tuesday
+#CONTROLfstream
+fstream open file in different location
+#CONTROL
